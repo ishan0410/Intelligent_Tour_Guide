@@ -30,10 +30,12 @@ The **Intelligent Tour Guide System** is a revolutionary travel planning solutio
   - Euclidean Distance
   - Jaccard Similarity
  
-  <img src="signup.png" alt="Simulator Screenshot" width="800" height="800"/>
-  <img src="signin.png" alt="Simulator Screenshot" width="800" height="800"/>
-  <img src="home.png" alt="Simulator Screenshot" width="800" height="800"/>
-  <img src="categories.png" alt="Simulator Screenshot" width="800" height="800"/>
-  <img src="userdash.png" alt="Simulator Screenshot" width="800" height="800"/>
-  <img src="cart.png" alt="Simulator Screenshot" width="800" height="800"/>
+
+ 
+  <img src="signup.png" alt="Simulator Screenshot" width="1400" height="800"/>
+  <img src="signin.png" alt="Simulator Screenshot" width="1400" height="800"/>
+  <img src="home.png" alt="Simulator Screenshot" width="1400" height="800"/>
+  <img src="categories.png" alt="Simulator Screenshot" width="1400" height="800"/>
+  <img src="userdash.png" alt="Simulator Screenshot" width="1400" height="800"/>
+  <img src="cart.png" alt="Simulator Screenshot" width="1400" height="800"/>
 
