@@ -1,11 +1,5 @@
 # Intelligent Tour Guide
 
-# Intelligent Tour Guide System
-
-![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-Active-brightgreen)
-![Technologies](https://img.shields.io/badge/technologies-React%2C%20Flask%2C%20MongoDB-blue)
-
 ## Overview
 
 The **Intelligent Tour Guide System** is a revolutionary travel planning solution that offers personalized tour package recommendations based on users' location and budget preferences. It combines cutting-edge machine learning techniques with a user-friendly interface, providing a seamless experience for travelers. The system not only suggests tourist destinations but also recommends accommodations and activities tailored to user preferences like trekking, honeymoon, and more.
@@ -35,4 +29,11 @@ The **Intelligent Tour Guide System** is a revolutionary travel planning solutio
   - Cosine Similarity
   - Euclidean Distance
   - Jaccard Similarity
+ 
+  <img src="signup.png" alt="Simulator Screenshot" width="400" height="800"/>
+  <img src="signin.png" alt="Simulator Screenshot" width="400" height="800"/>
+  <img src="home.png" alt="Simulator Screenshot" width="400" height="800"/>
+  <img src="categories.png" alt="Simulator Screenshot" width="400" height="800"/>
+  <img src="userdash.png" alt="Simulator Screenshot" width="400" height="800"/>
+  <img src="cart.png" alt="Simulator Screenshot" width="400" height="800"/>
 
