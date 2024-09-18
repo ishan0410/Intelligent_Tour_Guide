@@ -34,8 +34,8 @@ The **Intelligent Tour Guide System** is a revolutionary travel planning solutio
  
   <img src="signup.png" alt="Simulator Screenshot" width="2000" height="800"/>
   <img src="signin.png" alt="Simulator Screenshot" width="2000" height="800"/>
-  <img src="home.png" alt="Simulator Screenshot" width="1400" height="800"/>
-  <img src="categories.png" alt="Simulator Screenshot" width="1400" height="800"/>
-  <img src="userdash.png" alt="Simulator Screenshot" width="1400" height="800"/>
-  <img src="cart.png" alt="Simulator Screenshot" width="1400" height="800"/>
+  <img src="home.png" alt="Simulator Screenshot" width="2000" height="800"/>
+  <img src="categories.png" alt="Simulator Screenshot" width="2000" height="800"/>
+  <img src="userdash.png" alt="Simulator Screenshot" width="2000" height="800"/>
+  <img src="cart.png" alt="Simulator Screenshot" width="2000" height="800"/>
 
